@@ -1,0 +1,10 @@
+{
+  "id": "a-personal-records",
+  "name": "A_PersonalRecords",
+  "version": "1.5.1",
+  "minAppVersion": "1.5.0",
+  "description": "用于管理个人记录、物品、关系、账单与数据画板的 Obsidian 插件。",
+  "author": "全平台：岛民Vin",
+  "authorUrl": "https://space.bilibili.com/3540898",
+  "isDesktopOnly": false
+}
