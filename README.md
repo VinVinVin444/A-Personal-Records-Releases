@@ -2,6 +2,26 @@
 
 个人记录与生活数据工作台，在一个界面中集中管理个人资料、物品、关系、账单、使用记录与可视化关系画板。
 
+## 界面预览
+
+### 亮色主题
+
+<p align="center">
+  <img src="assets/a-personal-records-light-1.png" alt="A-Personal-Records 亮色主题界面一" width="49%">
+  <img src="assets/a-personal-records-light-2.png" alt="A-Personal-Records 亮色主题界面二" width="49%">
+</p>
+
+<p align="center">
+  <img src="assets/a-personal-records-light-3.png" alt="A-Personal-Records 亮色主题界面三" width="49%">
+  <img src="assets/a-personal-records-light-4.png" alt="A-Personal-Records 亮色主题界面四" width="49%">
+</p>
+
+### 小岛主题
+
+<p align="center">
+  <img src="assets/a-personal-records-island.png" alt="A-Personal-Records 小岛主题界面" width="100%">
+</p>
+
 ## 主要功能
 
 - 使用分类、分组和卡片整理身体记录、社交关系、物品与生活内容。
